@@ -22,7 +22,6 @@
     "babel-register": "^6.7.2",
     "css-loader": "^0.25.0",
     "html-webpack-plugin": "^2.15.0",
-    "jquery": "^2.2.2",
     "vue": "^2.0.0",
     "vue-loader": "^9.5.2",
     "vuex": "^2.0.0",
